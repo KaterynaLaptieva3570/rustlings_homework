@@ -20,5 +20,5 @@ fn main() {
 
     get_char(&data);
 
-    string_uppercase(data);
+    string_uppercase(qdata);
 }
